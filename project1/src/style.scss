@@ -1,0 +1,123 @@
+ul{
+    list-style: none;
+}
+a
+{
+    text-decoration: none;
+}
+.navbar-nav {
+    padding-left: 210px;
+}
+
+   
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    color: orange;
+}
+.btn{
+    --bs-btn-border-radius: 50px;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0 40px;
+    
+    height: 50px;
+}
+.btn:hover{
+    background-color: orange;
+    color: white;
+}
+
+.main-title
+{
+    font-weight: 800;
+}
+.main
+{
+   background-image:url('assets/images/slider/slider-3.jpg');
+   height: 650px;
+  
+}
+.text{
+    font-size: 20px;
+    font-weight: 600;
+    color: #2c241b;
+    padding-right: 5px;
+}
+.flex
+{
+    display: flex;
+    padding: 15px;
+    gap: 20px;
+}
+i{
+    font-size: 30px;
+    color: #2c241b;
+    align-items: center;
+   
+}
+.box:hover{
+   
+    background: #2c241b;
+}
+i:hover{
+    color: white;
+}
+
+.box
+{
+    width: 50px;
+    height: 50px;
+    background: whitesmoke;
+    border-radius: 50%;
+    border: 1px solid green;
+}
+input
+{
+    border-radius: 20px ;
+    border: 1px solid green;
+ 
+}
+.footer-copyright
+{
+    background: #094435;
+   
+}
+.footer-copyright p{
+    color: white;
+    font-size: 15px;
+}
+.fonticon{
+   
+   font-size: small;
+    color: orange;
+}
+span{
+    color: orange;
+}
+.footer-copyright a{
+   
+    color: orange;
+}
+.footer-copyright a:hover{
+    text-decoration: underline;
+}
+.points li a {
+    color: white;
+    display: inline-flex;
+    padding: 20px;
+}
+ .point1{
+    color: white;
+    display: inline-flex;
+    padding: 20px;
+}
+.points li a:hover{
+    color: orange;
+    text-decoration: none;
+}
+    
+
+
+
